@@ -1,0 +1,17 @@
+{
+  "name": "docker-node-mongo",
+  "version": "1.0.0",
+  "description": "> Simple example of a dockerized Node/Mongo app",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.7.4",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.9"
+  }
+}
